@@ -1,0 +1,19 @@
+{
+  "name": "webuyg2023",
+  "version": "1.0.0",
+  "description": "sunucu tabanlı dersi uygulaması",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pelinsila"
+  },
+  "keywords": [
+    "web",
+    "uygulamaları"
+  ],
+  "author": "pelin",
+  "license": "ISC"
+}
